@@ -1,3 +1,10 @@
 build/
-
 S2_02.pro.user
+*.pro.user.*
+.qmake.stash
+.qmake.cache
+moc_*.cpp
+ui_*.h
+*.o
+*.obj
+*.exe
